@@ -1,0 +1,17 @@
+Cserti eloadas.\\
+Topics: \\
+Landauer-formalism\\
+Calculating current:\\ 
+\begin{equation*}
+    j = \Psi^* \textrm{grad} \Psi - h.c.
+\end{equation*}
+reflection and transmission coefficients. \\
+Square scattering region with 3 leads (channels) <- calculate incoming and outgoing currents.\\
+Separate channel from lead. They're not the same thing.\\
+scattering matrix for this system.
+\begin{equation*}
+    |out\rangle = S|in\rangle
+\end{equation*}
+
+Main THing:
+Hamiltionan -> Green function -> scattering matrix from green function -> Conductivity from S matrix.
